@@ -1,3 +1,4 @@
+![logo](https://github.com/Tayyaba019/Tayyaba019/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Tayyaba Parveen</h1>
 <h3 align="center">A passionate python developer from Pakistan</h3>
 
